@@ -1,2 +1,3 @@
-# LAMEResourcepackStatistics
-The is a resourcepack for minecraft 1.21.7 which provides some statistic related information displayed ingame.
+# LAMEResourcepack 2025
+This repository provides two different resourcepacks for Minecraft Java 1.21.7.
+The resourcepacks are split in two branches to differentiate them.
